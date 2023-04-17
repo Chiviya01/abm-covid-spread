@@ -1,6 +1,7 @@
 # Agent-Based Model for COVID-19 spread in DCU Glasnevin campus
 
 ### _This project is a group assignment for the CA4024 "Building Complex Computational Models" module._
+_Completed by @swiatej and @chiviya01_
 ---
 
 ## Project Components and How to run model
